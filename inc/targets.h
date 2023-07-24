@@ -129,7 +129,7 @@
 
 #ifdef  WRAITH32_F421
 #define FIRMWARE_NAME           "WRAITH32_F4  "
-#define FILE_NAME                "WRAITH32_F421"
+#define FILE_NAME                "LikeEarth32_F421"
 #define DEAD_TIME               60
 #define HARDWARE_GROUP_AT_C045
 #define HARDWARE_GROUP_AT_C
